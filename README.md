@@ -1,2 +1,2 @@
 # maverick
-This is my first Git Rwpository.
+This is my first Git Repository.
